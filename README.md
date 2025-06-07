@@ -1,1 +1,1 @@
-# Adventure-trails-hikes
+# semester project
